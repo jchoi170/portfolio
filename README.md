@@ -1,7 +1,7 @@
 learning markdown, html, jss, and github pages to create an academic portfolio !  
 contact information : jchoi170@asu.edu  
 # About Me
-
+![aboutme](portfolio/IMG_1466.jpg "aboutme")
 
 
 # Project Experience / Research
